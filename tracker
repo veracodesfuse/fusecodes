@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Playfair+Display:wght@800&family=Raleway:wght@200&display=swap'); 
+
+  
+
+  
+
+.horizon { width: 700px; padding: 10px; margin: 0 auto;  background: var(--gradmid);  border: solid 1px var(--border); font-family: 'Raleway', sans-serif; } 
+
+.horizon-2 { background: var(--greybg);  border: solid 1px var(--border);  padding: 15px; padding-bottom: 20px; }  
+
+.horizonhead {  padding-right: 50px; padding-top: 50px; padding-left: 50px; text-align: right; background: var(--greybg);  border: solid 1px var(--border);  font-size: 45px;  font-style: bold;  font-family: 'Playfair Display', serif; } 
+
+.horizonhead x {  border-bottom: solid 1px var(--graddark);   background: var(--graddark);    -webkit-background-clip: text;    -webkit-text-fill-color: transparent;   color: transparent;    -webkit-box-decoration-break: clone;  }  
+
+.horizonsub { padding-right: 25px; padding-top: 5px; padding-bottom: 50px; text-align: right; border-top: solid 1px var(--gradmid); text-transform: uppercase; font-size: 15px; font-family: 'Dosis', sans-serif; } 
+
+.horizonsub2 { padding: 25px; text-align: right; border-top: solid 1px var(--gradmid); text-transform: uppercase; font-size: 15px; font-family: 'Dosis', sans-serif; } 
+
+  
+
+.horizon-t {   background: var(--greybg); border: solid 1px var(--border);  margin-top: 10px;   } 
+
+.horizonp { float: right; margin-top: -1px; margin-left: -1px; } 
+
+.horizonp img{  width: 300px;  height: 400px;  object-fit: cover; object-position: center; padding: 10px; background: var(--graddark);   border: solid 1px var(--border); }  
+
+  
+
+.horizonbox { height: 398px; margin: 10px 20px; overflow: hidden; position: relative;	right: 10px; top: 0px; background: var(--greybg);  border: solid 1px var(--border); } 
+
+.horizon box { font-size: 11px;  padding: padding: 25px; text-align: justify;  } 
+
+.scroll {padding-left: 20px; padding-right: 20px; padding-bottom: 10px; height: 135px; overflow: auto;} 
+
+  
+
+.horizon i { color: rgba(var(--gradmid));  letter-spacing: 1px; } 
+
+.horizon h1 { width: 268px; position: relative; left: 12px;  background: var(--graddark); color: white;  padding: 5px 20px; font-size: 20px; font-family: 'Playfair Display', serif;   text-transform: uppercase; }  
+
+.horizon h2 { padding-left: 25px; text-transform: uppercase; font-size: 25px; font-family: 'Dosis', sans-serif; border-bottom: dotted 3px;  } 
+
+.horizon x { background: var(--graddark);    -webkit-background-clip: text;    -webkit-text-fill-color: transparent;   color: transparent;    -webkit-box-decoration-break: clone; font-style: bold;  } 
+
+  
+
+.horizon b { 
+
+  font-size: 14px; 
+
+  font-weight: 500; 
+
+font-style: bold;  font-family: 'Playfair Display', serif; 
+
+background: var(--graddark);    -webkit-background-clip: text;    -webkit-text-fill-color: transparent;   color: transparent;    -webkit-box-decoration-break: clone;  
+
+} 
+
+ 
